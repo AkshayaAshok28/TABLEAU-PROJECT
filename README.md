@@ -8,12 +8,17 @@ The project’s objective is to identify and analyze the primary structural driv
 
 The analysis is summarized in the accompanying presentation, highlighting specific risk cohorts and proposing actionable retention strategies.
 
+------
+
 ### Key Performance Indicator (KPI)
 
 | Metric | Value |
 | :--- | :--- |
 | **Overall Attrition Rate** | **16.12%** |
 | **Total Employee Count** | **1,470** |
+
+-------
+
 
 ## 🎯 Key Findings & Drivers
 
@@ -25,6 +30,9 @@ The analysis identified three primary structural drivers that contribute to the 
 
 3.  **Specialized Education Fields (Life Sciences/Medical):** Employees with these specific educational backgrounds are leaving at an accelerated pace, which points toward highly competitive external job markets that may be offering superior packages.
 
+---------
+
+
 ## 📈 Dashboard Visualizations
 
 The primary file, **`HR DRIVEN ATTRITION DASHBOARD.twbx`**, contains the full set of interactive visualizations, including:
@@ -33,7 +41,7 @@ The primary file, **`HR DRIVEN ATTRITION DASHBOARD.twbx`**, contains the full se
 * **Education Field vs. Attrition:** Comparison of turnover rates to pinpoint where specialized talent is being lost.
 * **Income & Tenure Analysis:** Charts exploring the critical relationship between length of service, salary bands, and the probability of attrition.
 
-!
+---------
 
 ## 💡 Actionable Recommendations
 
@@ -42,3 +50,22 @@ The following strategies are recommended based on the data to mitigate the ident
 * **Targeted Compensation Review:** Conduct an immediate salary band review for the **Age 26-35 Male cohort** to close competitive gaps and retain experienced talent.
 * **Enhanced Onboarding & Mentorship:** Implement a formal, mandatory mentorship program for all new hires (Year 1) to reduce the turnover spike in the **< 2 year tenure** group.
 * **Deep Dive into Exit Surveys:** Launch a focused study using exit interview data from employees in the high-attrition **Education Fields** to identify non-salary motivators for leaving (e.g., workload, development opportunities).
+
+---------
+
+
+## 📁 Repository Contents
+
+| File/Folder | Description |
+| :--- | :--- |
+| **`HR DRIVEN ATTRITION DASHBOARD.twbx`** | The complete Tableau Packaged Workbook, including all dashboards, worksheets, and the underlying data extract. |
+| **`Presentation/HR ATTRITION DRIVERS.pptx`** | The final PowerPoint slide deck summarizing the analysis, key findings, and strategic recommendations. |
+
+---------
+
+
+ ## 📧 Contact
+
+- **👩‍💻 Your Name:** Akshaya A
+- **📩 Email:** aakshaya.ashok@gmail.com
+- **🌐 GitHub:** [http://github.com/AkshayaAshok28]
